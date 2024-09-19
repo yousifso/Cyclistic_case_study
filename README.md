@@ -17,6 +17,16 @@ The project follows the six-step data analysis process:
 ### 3. **Process**
    - **Task**: Clean the data by handling missing values, standardizing formats, and creating new columns like ride length and day of the week.
    - **Documentation**: Steps taken to clean and prepare the data for analysis.
+   - ### Step 1: Initial Data Check
+The initial check of the data revealed several missing values in key columns, which needed to be addressed before further analysis.
+--Previewing the first 10 rows of the data
+
+SELECT *
+FROM `my-second-project-429115.case_study.cyclistics_case_study`
+LIMIT 10;
+``markdown
+### Data Cleaning Results
+Below is a screenshot of the cleaning process results in BigQuery:
 
 ### 4. **Analyze**
    - **Task**: Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
