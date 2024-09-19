@@ -24,6 +24,7 @@ The initial check of the data revealed several missing values in key columns, wh
 SELECT *
 FROM `my-second-project-429115.case_study.cyclistics_case_study`
 LIMIT 10;
+![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/first_10_rows.png)
 ``markdown
 ### Data Cleaning Results
 Below is a screenshot of the cleaning process results in BigQuery:
