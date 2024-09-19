@@ -13,6 +13,10 @@ The project follows the six-step data analysis process:
 ### 2. **Prepare**
    - **Data**: Historical trip data of the past 12 months from Cyclistic’s bike-sharing program.
    - **Task**: Download and organize the data for analysis, ensuring it's clean and ready for processing.
+     - ### explore the data
+       The screenshot below will show column names and their types
+       ![Data Cleaning Screenshot]()
+
 
 ### 3. **Process**
    - **Task**: Clean the data by handling missing values, standardizing formats, and creating new columns like ride length and day of the week.
@@ -25,7 +29,7 @@ SELECT *
 FROM `my-second-project-429115.case_study.cyclistics_case_study`
 LIMIT 10;
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/first_10_rows.png)
-``markdown
+
 ### Data Cleaning Results
 Below is a screenshot of the cleaning process results in BigQuery:
 
