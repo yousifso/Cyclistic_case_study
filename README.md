@@ -15,7 +15,7 @@ The project follows the six-step data analysis process:
    - **Task**: Download and organize the data for analysis, ensuring it's clean and ready for processing.
      - ### explore the data
        The screenshot below will show column names and their types
-       ![Data Cleaning Screenshot]()
+       ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/colum_names.png)
 
 
 ### 3. **Process**
