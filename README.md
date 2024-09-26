@@ -64,7 +64,7 @@ i also checked for duplication but the dataset has now duplication:
       The results highlight differences in riding behavior,
         showing whether casual riders or members tend to have longer or shorter rides on average.
 
-     ![Data Analyzing]()
+     ![Data Analyzing](https://github.com/yousifso/Cyclistic_case_study/blob/main/avg_ride_dur.png)
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
