@@ -79,7 +79,7 @@ i also checked for duplication but the dataset has now duplication:
            ordered by the most used bike type.
      ### Insight:
         The results reveal which bike types are most frequently used, providing insights into rider preferences that can inform fleet              management and marketing efforts
-     ![Data exploration]()
+     ![Data exploration](https://github.com/yousifso/Cyclistic_case_study/blob/main/Bike_Type_Popularity.png)
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
