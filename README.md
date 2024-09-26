@@ -73,6 +73,13 @@ i also checked for duplication but the dataset has now duplication:
         The results help pinpoint the stations with the most activity,
            offering valuable information for operational improvements and targeted marketing strategies for different rider types.
      ![Data exploration](https://github.com/yousifso/Cyclistic_case_study/blob/main/popular_station.png)
+
+     ### Bike Type Popularity:
+        This query counts the number of trips taken using each type of bike (classic, docked, and electric),
+           ordered by the most used bike type.
+     ### Insight:
+        The results reveal which bike types are most frequently used, providing insights into rider preferences that can inform fleet              management and marketing efforts
+     ![Data exploration]()
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
