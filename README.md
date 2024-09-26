@@ -55,8 +55,17 @@ i also checked for duplication but the dataset has now duplication:
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/check_for_duplication.png)
 
 ### 4. **Analyze**
-   - **Task**: Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
+   - **Task**:
+     Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
    - **Tools**: SQL and Tableau are used to analyze and visualize the data.
+     ### Average Ride Length by Rider Type:
+        This query calculates the average ride duration in minutes, comparing casual riders and members.
+     ### Insight:
+      The results highlight differences in riding behavior,
+        showing whether casual riders or members tend to have longer or shorter rides on average.
+
+     ![Data Analyzing](https://github.com/yousifso/Cyclistic_case_study/blob/main/avg_ride_length.png)
+     
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
 ### 5. **Share**
