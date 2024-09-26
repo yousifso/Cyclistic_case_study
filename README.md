@@ -65,6 +65,14 @@ i also checked for duplication but the dataset has now duplication:
         showing whether casual riders or members tend to have longer or shorter rides on average.
 
      ![Data Analyzing](https://github.com/yousifso/Cyclistic_case_study/blob/main/avg_ride_dur.png)
+
+     ### Top 10 Most Popular Start Stations by Rider Type:
+        This query identifies the top 10 start stations with the highest ride counts,
+           grouped by whether the rider is a member or casual.
+     ### Insight:
+        The results help pinpoint the stations with the most activity,
+           offering valuable information for operational improvements and targeted marketing strategies for different rider types.
+     ![Data exploration]()
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
