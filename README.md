@@ -72,7 +72,7 @@ i also checked for duplication but the dataset has now duplication:
      ### Insight:
         The results help pinpoint the stations with the most activity,
            offering valuable information for operational improvements and targeted marketing strategies for different rider types.
-     ![Data exploration](https://github.com/yousifso/Cyclistic_case_study/blob/main/popular_start_station.png)
+     ![Data exploration]()
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
