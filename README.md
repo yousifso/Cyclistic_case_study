@@ -48,7 +48,7 @@ Below is a screenshot of the cleaning process results in BigQuery:
 
 ### 4. **Analyze**
    - **Task**: Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
-   - **Tools**: SQL, R, and Tableau are used to analyze and visualize the data.
+   - **Tools**: SQL and Tableau are used to analyze and visualize the data.
    - **Visualizations**: Graphs showing key differences in rider behavior.
 
 ### 5. **Share**
