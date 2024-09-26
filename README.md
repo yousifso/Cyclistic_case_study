@@ -74,6 +74,10 @@ i also checked for duplication but the dataset has now duplication:
      ![Data exploration](https://github.com/yousifso/Cyclistic_case_study/blob/main/Bike_Type_Popularity.png)
      
    - **Visualizations**: Graphs showing key differences in rider behavior.
+     ### Visualization of Average Ride Duration:
+        The chart compares the average ride lengths of casual riders and members, highlighting that casual riders tend to have longer              trips compared to members.
+     ### Insight:
+        This visualization underscores the difference in riding behavior, suggesting that casual riders may use bikes more for leisure             or longer trips, while members likely use bikes for shorter, more frequent commutes.
 
 ### 5. **Share**
    - **Task**: Create a clear report and data visualizations to present findings to the Cyclistic executive team.
