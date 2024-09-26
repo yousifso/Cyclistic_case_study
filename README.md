@@ -49,6 +49,9 @@ Below is a screenshot of the cleaning process results in BigQuery whihch shows t
 
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/after_cleaning1.png)
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/after_cleaning2.png)
+
+i also checked for duplication but the dataset has now duplication
+
 ### 4. **Analyze**
    - **Task**: Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
    - **Tools**: SQL and Tableau are used to analyze and visualize the data.
