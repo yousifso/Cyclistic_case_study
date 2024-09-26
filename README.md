@@ -6,10 +6,6 @@ This project is part of the Google Data Analytics Certificate, where I take on t
 ### Data Analysis Process
 The project follows the six-step data analysis process:
 
-Here’s a version of the "Ask" section formatted for your README:
-
----
-
 ### Step 1: Ask
 
 In the Ask phase, the goal is to clearly identify the problem, define the business objectives, and understand the stakeholders involved. This step helps to set the direction for the entire analysis.
@@ -23,6 +19,7 @@ Cyclistic’s Director of Marketing seeks to develop marketing strategies that w
 
 **Objective**  
 Analyzing the different behaviors and patterns of annual members and casual riders will provide valuable insights into each group. These insights will help the marketing team design targeted strategies that appeal specifically to casual riders, encouraging them to become members. The findings will also support the Cyclistic executive team in their efforts to grow the company by increasing the number of annual memberships.
+
 ### 2. **Prepare**
    - **Data**: Historical trip data of the past 12 months from Cyclistic’s bike-sharing program.
    - **Task**: Download and organize the data for analysis, ensuring it's clean and ready for processing.
@@ -30,17 +27,12 @@ Analyzing the different behaviors and patterns of annual members and casual ride
        The screenshot below will show column names and their types
        ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/colum_names.png)
 
-
 ### 3. **Process**
    - **Task**: Clean the data by handling missing values, standardizing formats, and creating new columns like ride length and day of the week.
    - **Documentation**: Steps taken to clean and prepare the data for analysis.
    - ### Step 1: Initial Data Check
 The initial check of the data revealed several missing values in key columns, which needed to be addressed before further analysis.
 --Previewing the first 10 rows of the data
-
-SELECT *
-FROM `my-second-project-429115.case_study.cyclistics_case_study`
-LIMIT 10;
 
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/first_10_rows.png)
 
