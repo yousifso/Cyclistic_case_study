@@ -80,6 +80,20 @@ i also checked for duplication but the dataset has now duplication:
         This visualization underscores the difference in riding behavior, suggesting that casual riders may use bikes more for leisure             or longer trips, while members likely use bikes for shorter, more frequent commutes.
      ![Data visualization](https://github.com/yousifso/Cyclistic_case_study/blob/main/average_ride_durations.png)
 
+## Summary of Analysis
+
+| **Key Findings**                                    | **Details**                                                                                         |
+|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Rider Behavior**                                  | Casual riders have longer average ride durations (~23.5 min) compared to members (~12 min).          |
+| **Popular Bike Types**                              | Classic bikes are the most popular, followed by electric bikes.                                      |
+| **Top Start Stations**                              | The busiest start stations are mainly used by casual riders, presenting opportunities for membership conversion. |
+
+| **Recommendations**                                 | **Details**                                                                                         |
+|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Marketing Strategy**                              | Target casual riders with promotions in high-traffic areas to increase membership conversions.        |
+| **Operational Considerations**                      | Ensure that popular stations are well-stocked with classic and electric bikes, especially during peak hours. |
+
+
 ### 5. **Share**
    - **Task**: Create a clear report and data visualizations to present findings to the Cyclistic executive team.
    - **Deliverables**: Report with insights on how casual riders and members differ, backed by data visualizations.
