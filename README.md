@@ -46,7 +46,7 @@ i also checked for duplication but the dataset has now duplication:
 
 ![Data Cleaning Screenshot](https://github.com/yousifso/Cyclistic_case_study/blob/main/check_for_duplication.png)
 
-### 4. **Analyze** and **Share**
+### 4. **Analyze**
    - **Task**:
      Explore the data to uncover trends like ride duration, frequency, and seasonal usage differences between casual riders and members.
    - **Tools**: SQL and Tableau are used to analyze and visualize the data.
