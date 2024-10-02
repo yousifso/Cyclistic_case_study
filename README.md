@@ -93,10 +93,10 @@ i also checked for duplication but the dataset has now duplication:
 | **Marketing Strategy**                              | Target casual riders with promotions in high-traffic areas to increase membership conversions.        |
 | **Operational Considerations**                      | Ensure that popular stations are well-stocked with classic and electric bikes, especially during peak hours. |
 
-
+<!--
 ### 5. **Share**
    - **Task**: Create a clear report and data visualizations to present findings to the Cyclistic executive team.
-   - **Deliverables**: Report with insights on how casual riders and members differ, backed by data visualizations.
+   - **Deliverables**: Report with insights on how casual riders and members differ, backed by data visualizations. -->
 
 ### 6. **Act**
    - **Recommendations**: Propose marketing strategies to convert casual riders into annual members, such as offering trial memberships, promoting benefits for commuters, and using targeted digital marketing campaigns.
