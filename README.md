@@ -90,8 +90,4 @@ i also checked for duplication but the dataset has now duplication:
 
 ### Tools Used
 - SQL: For data extraction and cleaning.
-- R: For analysis and calculations.
 - Tableau: For data visualization.
-
-### Conclusion
-By following this structured approach, the analysis provides actionable insights to help Cyclistic improve membership conversion through targeted marketing strategies.
