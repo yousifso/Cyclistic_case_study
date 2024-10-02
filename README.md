@@ -82,7 +82,6 @@ i also checked for duplication but the dataset has now duplication:
 
 ### 6. **Act**
    - **Recommendations**: Propose marketing strategies to convert casual riders into annual members, such as offering trial memberships, promoting benefits for commuters, and using targeted digital marketing campaigns.
-   - **Next Steps**: Test these strategies and refine based on results.
 
 ## Summary of Analysis
 
