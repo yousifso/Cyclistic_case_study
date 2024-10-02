@@ -80,6 +80,10 @@ i also checked for duplication but the dataset has now duplication:
         This visualization underscores the difference in riding behavior, suggesting that casual riders may use bikes more for leisure             or longer trips, while members likely use bikes for shorter, more frequent commutes.
      ![Data visualization](https://github.com/yousifso/Cyclistic_case_study/blob/main/average_ride_durations.png)
 
+### 6. **Act**
+   - **Recommendations**: Propose marketing strategies to convert casual riders into annual members, such as offering trial memberships, promoting benefits for commuters, and using targeted digital marketing campaigns.
+   - **Next Steps**: Test these strategies and refine based on results.
+
 ## Summary of Analysis
 
 | **Key Findings**                                    | **Details**                                                                                         |
@@ -97,10 +101,6 @@ i also checked for duplication but the dataset has now duplication:
 ### 5. **Share**
    - **Task**: Create a clear report and data visualizations to present findings to the Cyclistic executive team.
    - **Deliverables**: Report with insights on how casual riders and members differ, backed by data visualizations. -->
-
-### 6. **Act**
-   - **Recommendations**: Propose marketing strategies to convert casual riders into annual members, such as offering trial memberships, promoting benefits for commuters, and using targeted digital marketing campaigns.
-   - **Next Steps**: Test these strategies and refine based on results.
 
 ### Tools Used
 - SQL: For data extraction and cleaning.
